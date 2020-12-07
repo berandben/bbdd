@@ -10,5 +10,9 @@ https://www.tutorialesprogramacionya.com/mysqlya/index.php?inicio=0
 
 https://www.tutorialesprogramacionya.com/mysqlya/index.php?inicio=0  
 
+https://www.mysqltutorial.org/ ** 
+
+
+
 
 
